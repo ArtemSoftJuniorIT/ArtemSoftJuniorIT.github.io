@@ -48,16 +48,7 @@ opacity: 1;
 	color: #fff;
 	box-shadow: 0 0 20px #599;
 }
-#ky{
-	top: 50%;
-	left: 50%;
-	transform: translate(-50%);
-	position: absolute;
-	text-align: center;
-	display: inline-block;
-	color: #085;
-	font-size: 30px;
-}
+
 @font-face{
 	font-family: hui1;
 	src:url(18712.ttf);
