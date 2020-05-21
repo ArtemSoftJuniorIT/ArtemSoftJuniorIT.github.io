@@ -1,1 +1,0 @@
-# ArtemSoftJuniorIT.github.io
