@@ -1,5 +1,5 @@
 body{
-	background-color: #644;
+	background-color: #275;
 	margin:0;
 }
 #top-menu{
@@ -48,7 +48,6 @@ opacity: 1;
 	color: #fff;
 	box-shadow: 0 0 20px #599;
 }
-
 @font-face{
 	font-family: hui1;
 	src:url(18712.ttf);
